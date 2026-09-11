@@ -2,7 +2,6 @@
 
 ![School Management & Attendance System](school-management-banner.png)
 
-
 A Python and MySQL based School Management & Attendance System for managing students, classes, attendance records, reports, and data export.
 
 ## Features
