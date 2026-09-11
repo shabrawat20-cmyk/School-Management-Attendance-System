@@ -1,6 +1,7 @@
 # School Management & Attendance System
 
-![School Management & Attendance System](school-management-banner.png)
+![School Management & Attendance System](https://github.com/shabrawat20-cmyk/School-Management-Attendance-System/raw/main/school-management-banner.png)
+
 
 A Python and MySQL based School Management & Attendance System for managing students, classes, attendance records, reports, and data export.
 
