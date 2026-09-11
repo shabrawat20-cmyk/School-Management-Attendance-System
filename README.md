@@ -76,7 +76,7 @@ The application provides a simple menu-driven interface for managing students, c
 
 ### Application Menu
 
-Enter Username : admin
+Enter Username : Ducat
 Enter Password : ********
 
 Login Successful
