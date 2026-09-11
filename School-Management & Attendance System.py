@@ -80,8 +80,8 @@ def school_login():
     username = input("Enter Username : ")
     password = getpass("Enter Password : ")
 
-    admin_user = "admin"
-    admin_password = "admin123"
+    admin_user = "Ducat"
+    admin_password = "Ducat2026"
 
     if username == admin_user and password == admin_password:
 
