@@ -6,6 +6,8 @@
 CREATE DATABASE IF NOT EXISTS school_database;
 USE school_database;
 
+
+
 CREATE TABLE IF NOT EXISTS classes(
     class_id INT AUTO_INCREMENT PRIMARY KEY,
     class_name VARCHAR(20) UNIQUE NOT NULL
