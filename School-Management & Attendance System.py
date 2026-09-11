@@ -4,7 +4,7 @@ from getpass import getpass
 from datetime import date
 import pandas as pd
 
-DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_HOST = os.getenv("DB_HOST","localhost")
 DB_USER = os.getenv("DB_USER", "root")
 DB_NAME = "school_database"
 
