@@ -1,5 +1,8 @@
 # School Management & Attendance System
 
+![School Management & Attendance System](school-management-banner.png)
+
+
 A Python and MySQL based School Management & Attendance System for managing students, classes, attendance records, reports, and data export.
 
 ## Features
@@ -66,6 +69,50 @@ The project uses MySQL to store:
 Classes
 Students
 Attendance records
+
+## Project Demo
+
+The application provides a simple menu-driven interface for managing students, classes, attendance, reports, and data export.
+
+### Application Menu
+
+Enter Username : admin
+Enter Password : ********
+
+Login Successful
+
+================================================
+       SCHOOL MANAGEMENT SYSTEM
+================================================
+1. Add Student
+2. View Students
+3. Take Attendance
+4. Search Student
+5. Delete Student
+6. Update Student
+7. Total Students
+8. Search By Name
+9. Attendance Report
+10. Student Attendance History
+11. Low Attendance Students
+12. Export Students to CSV
+13. School Dashboard
+14. Exit
+================================================
+
+Enter Choice : 14
+Thank You
+
+Key Modules
+Student CRUD Operations
+Class Management
+Daily Attendance Management
+Attendance Reports & History
+Low Attendance Monitoring
+Student Search
+School Dashboard
+CSV Data Export
+MySQL Database Integration
 
 ### Learning Outcomes
 
